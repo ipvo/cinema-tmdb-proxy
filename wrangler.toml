@@ -1,0 +1,6 @@
+name = "cinema-tmdb-proxy"
+main = "worker.js"
+compatibility_date = "2024-10-01"
+
+# تنظیمات پیشنهادی برای دسترسی به اینترنت
+compatibility_flags = ["nodejs_compat"]
